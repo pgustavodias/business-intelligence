@@ -148,7 +148,7 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 ## 📌 Semana 11
 
 ### 📅 13/10 (Terça)
-- Desenvolvimento de Dashboards utilizando **Power BI**
+- Semana SI
 
 ---
 
