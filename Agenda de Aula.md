@@ -24,8 +24,8 @@
   - [📌 Semana 12](#-semana-12)
   - [📌 Semana 13](#-semana-13)
   - [📌 Semana 14](#-semana-14)
-  - [🎤 Semana 15 — Apresentação](#-semana-15--apresentação)
-  - [📌 Semana 16](#-semana-16)
+  - [📌 Semana 15 — Cpngresso](#-congresso)
+  - [🎤 Semana 16 Apresentação](#-semana-16--apresentação)
   - [🚨 Semana 17 — Avaliação 2](#-semana-17--avaliação-2)
   - [🔮 Semana 18](#-semana-18)
   - [📌 Semana 19](#-semana-19)
@@ -177,20 +177,18 @@ A disciplina será avaliada por meio dos seguintes instrumentos:
 
 ---
 
-## 🎤 Semana 15 — Apresentação
+## 📌 Semana 15 — Congresso
 
 ### 📅 10/11 (Terça)
-- 🎤 **Apresentação de Resultados**
-- Avaliação das soluções desenvolvidas
+- Congresso
 
 ---
 
-## 📌 Semana 16
+## 🎤 Semana 16 — Apresentação
 
 ### 📅 17/11 (Terça)
-- Revisão Geral
-- Esclarecimento de dúvidas
-- Preparação para a Avaliação 2
+- 🎤 **Apresentação de Resultados**
+- Avaliação das soluções desenvolvidas
 
 ---
 
